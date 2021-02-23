@@ -2,6 +2,8 @@
 
 View Here: https://elated-swirles-797c75.netlify.app 
 
+If the link does not work than that means I took it down to replace it with other projects, you can still view the demo and explanation here: https://youtu.be/rsIFCmxkbDE
+
 ### An example of a PWA web app which stands for Progressive Web App.
 - The PWA, or a progressive web app, is basically a web app that is able to be accessed through its own native icon rather than opening a URL in your browser. So then, what’s a web app? It’s an application built on technologies run on your web browser. Unlike what’s expected from static websites, web apps and thus PWAs are able to have highly interactive and complex user interfaces like what’s expected from your regular desktop or mobile app. Much of the processing is done on a remote server which is now more viable than ever with highly reliable and cost-effective shared cloud hosting. 
 - https://technical.ly/philly/2020/12/11/pwa-progressive-web-apps/
